@@ -1,2 +1,2 @@
 # tutorial
-Git learning 
+Learning about Git commands
